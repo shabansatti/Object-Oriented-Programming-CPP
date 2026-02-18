@@ -1,7 +1,8 @@
 # Object-Oriented Programming (OOP)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&label=Visitors&color=0e75b6&style=flat)
-![Course](https://img.shields.io/badge/C++)
+![Visitor Count](https://komarev.com/ghpvc/?username=shabansatti&repo=Object-Oriented-Programming-CPP&label=Visitors&color=0e75b6&style=flat)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+
 ![Semester](https://img.shields.io/badge/Semester-Spring%202026-green)
 ![Program](https://img.shields.io/badge/Program-BS%20Artificial%20Intelligence-purple)
 
