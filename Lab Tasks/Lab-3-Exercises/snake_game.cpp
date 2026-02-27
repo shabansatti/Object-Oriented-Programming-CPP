@@ -16,15 +16,19 @@ int main() {
     while (cin.get(move) && move!= '\n') {
         switch (move) {
             case 'u':
+            case 'U':    // entering case satement for uppercase U 
                 pos.y++;
                 break;
-            case 'd':
+            case 'd':    
+            case 'D':     // entering case satement for uppercase D
                 pos.y--;
                 break;
             case 'l':
+            case 'L':     // entering case satement for uppercase L
                 pos.x--;
                 break;
             case 'r':
+            case 'R':     // entering case satement for uppercase R
                 pos.x++;
                 break;
             default:
