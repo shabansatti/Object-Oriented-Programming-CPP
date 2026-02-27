@@ -5,7 +5,7 @@ int main() {
     char dash;
     cout<<"Enter CNIC No: "<<endl;
     cin>>c1>>dash>>c2>>dash>>c3;
-    c1 = c1 / 10000;
+    c1 = c1 / 10000; 
     cout<< "This person is from ";
     switch (c1) {
         case 1:
@@ -33,6 +33,8 @@ int main() {
         case 7:
             cout<< "GB";
             break;
+        default:
+        cout<<" Unknown Region";
     }
     cout << " and is a ";
     if (c3 % 2)
