@@ -5,15 +5,13 @@ int main() {
     cout<<"Enter the number: "<<endl;
     cin>>x;
     for (int i =  2; i <=x; i++) {
-        if (x%i == 0 && i != x) {
+        if (x%i == 0) {
             cout<<"Not a prime number."<<endl;
             break;
         }
-        else if (i > x/2) {
+        else if (i==x-1) {
             cout<<"A prime Number"<<endl;
-            break;
         }
     }
     return 0;
-
 }
