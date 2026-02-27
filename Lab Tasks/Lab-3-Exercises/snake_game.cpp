@@ -28,6 +28,7 @@ int main() {
                 pos.x++;
                 break;
             default:
+                Something wrong happen; 
                 break;
         }
     }
