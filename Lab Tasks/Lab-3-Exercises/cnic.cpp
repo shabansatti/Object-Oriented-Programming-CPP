@@ -6,7 +6,7 @@ int main() {
     cout<<"Enter CNIC No: "<<endl;
     cin>>c1>>dash>>c2>>dash>>c3;
     c1 = c1 / 10000;
-    cout<< "Thi person is from ";
+    cout<< "This person is from ";
     switch (c1) {
         case 1:
             cout<< "KPK";
