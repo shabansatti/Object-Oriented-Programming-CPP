@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shabansatti&repo=Object-Oriented-Programming-CPP&label=Visitors&color=0e75b6&style=flat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shabansatti.Object-Oriented-Programming-CPP)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 
 ![Semester](https://img.shields.io/badge/Semester-Spring%202026-green)
